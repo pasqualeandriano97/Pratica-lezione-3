@@ -1,0 +1,54 @@
+body {
+  max-width: 600px;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+}
+#logo {
+  margin-left: auto;
+  margin-right: auto;
+}
+#didascalialogo {
+  text-align: center;
+  max-width: 600px;
+  color: rgb(86, 86, 198);
+  background-color: rgba(252, 252, 173, 0.345);
+}
+#titolo {
+  text-align: center;
+}
+#firstpart {
+  max-width: 600px;
+}
+#parolesfocate {
+  color: rgba(0, 0, 0, 0.268);
+  text-align: center;
+}
+.featured {
+  font-weight: bold;
+  color: brown;
+}
+ol {
+  line-height: 200%;
+}
+ul {
+  line-height: 200%;
+}
+.uncenteredtext {
+  max-width: 70%;
+  margin-left: 20px;
+}
+span {
+  font-weight: 600;
+}
+ol li {
+  font-weight: 500;
+}
+ul li {
+  font-weight: 500;
+}
+.focaccia {
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.3);
+}
